@@ -6,9 +6,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "SecureScanner Pro - Web Vulnerability Scanner",
+  title: "SecureScanner - Web Vulnerability Scanner",
   description: "Advanced web application security scanner for identifying vulnerabilities and security issues",
-    generator: 'v0.dev'
+    generator: 'Ansh'
 }
 
 export default function RootLayout({
